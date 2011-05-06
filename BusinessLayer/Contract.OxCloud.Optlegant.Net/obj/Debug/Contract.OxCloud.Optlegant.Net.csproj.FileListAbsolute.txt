@@ -1,0 +1,5 @@
+C:\Users\elavarasan\Desktop\OxCloud\BusinessLayer\Output\Contract.OxCloud.Optlegant.Net.dll
+C:\Users\elavarasan\Desktop\OxCloud\BusinessLayer\Output\Contract.OxCloud.Optlegant.Net.pdb
+C:\Users\elavarasan\Desktop\OxCloud\BusinessLayer\Contract.OxCloud.Optlegant.Net\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elavarasan\Desktop\OxCloud\BusinessLayer\Contract.OxCloud.Optlegant.Net\obj\Debug\Contract.OxCloud.Optlegant.Net.dll
+C:\Users\elavarasan\Desktop\OxCloud\BusinessLayer\Contract.OxCloud.Optlegant.Net\obj\Debug\Contract.OxCloud.Optlegant.Net.pdb

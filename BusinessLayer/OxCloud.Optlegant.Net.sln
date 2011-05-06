@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.OxCloud.Optlegant.Net", "Contract.OxCloud.Optlegant.Net\Contract.OxCloud.Optlegant.Net.csproj", "{080DE58A-0F21-43AE-B51B-7D6274AB083D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onboarding.OxCloud.Optlegant.Net", "Onboarding.OxCloud.Optlegant.Net\Onboarding.OxCloud.Optlegant.Net.csproj", "{05D0528F-2E77-4F85-8D27-09EE7EB010A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datastore.OxCloud.Optlegant.Net", "Datastore.OxCloud.Optlegant.Net\Datastore.OxCloud.Optlegant.Net.csproj", "{4CDC8CD0-E483-4248-8CE3-5E5DC43DCFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxCloud.Web", "OxCloud.Web\OxCloud.Web.csproj", "{603717D6-491F-4D0D-A34B-FC028CCEFFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080DE58A-0F21-43AE-B51B-7D6274AB083D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080DE58A-0F21-43AE-B51B-7D6274AB083D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080DE58A-0F21-43AE-B51B-7D6274AB083D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080DE58A-0F21-43AE-B51B-7D6274AB083D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D0528F-2E77-4F85-8D27-09EE7EB010A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D0528F-2E77-4F85-8D27-09EE7EB010A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D0528F-2E77-4F85-8D27-09EE7EB010A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D0528F-2E77-4F85-8D27-09EE7EB010A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDC8CD0-E483-4248-8CE3-5E5DC43DCFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDC8CD0-E483-4248-8CE3-5E5DC43DCFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDC8CD0-E483-4248-8CE3-5E5DC43DCFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDC8CD0-E483-4248-8CE3-5E5DC43DCFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603717D6-491F-4D0D-A34B-FC028CCEFFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603717D6-491F-4D0D-A34B-FC028CCEFFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603717D6-491F-4D0D-A34B-FC028CCEFFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603717D6-491F-4D0D-A34B-FC028CCEFFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

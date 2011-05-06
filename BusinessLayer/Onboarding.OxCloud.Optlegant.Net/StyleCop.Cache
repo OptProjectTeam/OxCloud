@@ -1,0 +1,42 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="36639807">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Common.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 09:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>02/17/2011 04:49:05</timestamp>
+    <milliseconds>516</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CompanyActivation.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 09:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>02/17/2011 04:49:05</timestamp>
+    <milliseconds>523</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Constants.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 09:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>02/17/2011 04:49:02</timestamp>
+    <milliseconds>825</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 09:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>02/17/2011 04:48:29</timestamp>
+    <milliseconds>912</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
